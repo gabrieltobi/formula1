@@ -1,0 +1,13 @@
+﻿#botoes {
+    margin-bottom: 12px;
+    text-align: center;
+}
+
+#tabela {
+    text-align: center;
+    color: green;
+}
+
+#tabela.erro {
+    color: red;
+}
